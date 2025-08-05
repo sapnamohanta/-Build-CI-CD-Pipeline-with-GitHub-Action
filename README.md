@@ -1,6 +1,6 @@
 # End-to-End AWS Infrastructure Deployment with Terraform and GitHub Actions.
 
-## Overview
+## Overview.
 
 This project provisions and deploys a complete AWS infrastructure for a simple web application using **Terraform** (IaC) and **GitHub Actions** (CI/CD). It includes a VPC with public and private subnets, an EC2 instance running Dockerized NGINX, an RDS instance, and an ECR registry to store Docker images.
 
